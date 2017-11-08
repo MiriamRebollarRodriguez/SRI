@@ -46,22 +46,21 @@
 
 @title[Peticiones]
 
-#### GET
-#### El método GET  solicita una representación de un recurso específico. Las peticiones que usan el método GET sólo deben
-#### recuperar datos.
-#### HEAD
+#### <li> GET </li>
+#### <h1> El método GET  solicita una representación de un recurso específico. Las peticiones que usan el método GET sólo deben recuperar datos.
+#### <li> HEAD</li>
 #### El método HEAD pide una respuesta idéntica a la de una petición GET, pero sin el cuerpo de la respuesta.
-#### POST
+#### <li> POST </li>
 #### El método POST se utiliza para enviar una entidad a un recurso en específico, causando a menudo un cambio en el estado o efectos secundarios en el servidor.
-#### PUT
+#### <li> PUT </li>
 #### El modo PUT reemplaza todas las representaciones actuales del recurso de destino con la carga útil de la petición.
-#### DELETE
+#### <li> DELETE </li>
 #### El método DELETE borra un recurso en específico.
-#### CONNECT
+#### <li> CONNECT </li>
 #### El método CONNECT establece un tunel hacia el servidor identificado por el recurso.
-#### OPTIONS
+#### <li> OPTIONS </li>
 #### El método OPTIONS es utilizado para describir las opciones de comunicación para el recurso de destino.
-#### TRACE
+#### <li> TRACE </li>
 #### El método TRACE  realiza una prueba de bucle de retorno de mensaje a lo largo de la ruta al recurso de destino.
 
 <br>
@@ -70,12 +69,12 @@
 
 @title[Respuestas]
 
-#### HTTP/1.1 400 Bad Request
-#### Date: Sun, 18 Oct 2012 10:36:20 GMT
-#### Server: Apache/2.2.14 (Win32)
-#### Content-Length: 230
-#### Content-Type: text/html; charset=iso-8859-1
-#### Connection: Closed
+#### <h2> HTTP/1.1 400 Bad Request  
+#### <h2> Date: Sun, 18 Oct 2012 10:36:20 GMT
+#### <h2> Server: Apache/2.2.14 (Win32)
+#### <h2> Content-Length: 230
+#### <h2> Content-Type: text/html; charset=iso-8859-1
+#### <h2> Connection: Closed
 <br>
 
 ---
